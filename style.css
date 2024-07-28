@@ -1,0 +1,10 @@
+* {
+  border: 2px solid #dedede;
+  padding: 5px;
+  margin: 5px;
+}
+body {
+  max-width: 1440px;
+  font-family: sans-serif;
+  border: 2px #c40808 solid;
+}
